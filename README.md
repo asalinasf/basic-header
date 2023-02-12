@@ -6,6 +6,15 @@ This is a basic header, this small project is created on HTML and CSS
 
 ![project screen](img/screen.png)
 
+# Install
+
+```sh
+git clone https://github.com/asalinasf/basic-header/
+cd basic-header
+open in your browse
+```
+
+
 # HTML
 ```html
 <!DOCTYPE html>
